@@ -1,0 +1,1 @@
+g++ --std=c++14 -g vector_assignment_vs_memcpy.cpp -o vector_assignment_vs_memcpy
